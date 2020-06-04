@@ -1,0 +1,6 @@
+F:\SampleApps\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+F:\SampleApps\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+F:\SampleApps\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+F:\SampleApps\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+F:\SampleApps\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+F:\SampleApps\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
