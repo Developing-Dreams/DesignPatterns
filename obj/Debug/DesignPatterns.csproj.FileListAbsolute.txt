@@ -4,3 +4,4 @@ F:\SampleApps\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\DesignPatte
 F:\SampleApps\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
 F:\SampleApps\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
 F:\SampleApps\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+F:\SampleApps\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
